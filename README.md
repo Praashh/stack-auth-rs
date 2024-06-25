@@ -17,7 +17,7 @@ Go to the project directory
   cd stack-auth-rs
 ```
 
-Install dependencies
+Build project
 
 ```bash
  cargo build
